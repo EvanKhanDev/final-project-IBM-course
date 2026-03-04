@@ -27,7 +27,11 @@ Project maintainers are responsible for clarifying and enforcing standars.
 
 This Code of Conduct applies within all project spaces.
 
-## Enforcement & Enfocement guidelines
+## Enforcement 
+
+Software Composition Analysis - SCA
+
+## Enfocement guidelines
 
 Community leaders will follo these guidelines in determining consequences.
 
