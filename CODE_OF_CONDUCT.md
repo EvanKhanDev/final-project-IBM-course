@@ -1,27 +1,25 @@
-# CODE_OF_CONDUCT
-
 ## Index
 
-- Our Pledge
-- Our Standards
-- Enforcement Responsibilities
-- Scope
-- Enforcement
-- Enforcement Guidelines
-- Attribution
+- `## Our Pledge`
+- `## Our Standards`
+- `## Enforcement Responsibilities`
+- `## Scope`
+- `## Enforcement`
+- `## Enforcement Guidelines`
+- `## Attribution`
 
-## Our Commitment
+## Our Pledge
 
 We pledge to make participation in pur comunity a harassment-free experience.
 
-## Our Standars
+## Our Standards
 
 Examples of behavior that contributes to a positive enviroment incluide:
 
 - Respectful comunication
 - Constructive feedback
 
-## Enforcement Responsabilities
+## Enforcement Responsibilities
 
 Project maintainers are responsible for clarifying and enforcing standars.
 
@@ -29,7 +27,11 @@ Project maintainers are responsible for clarifying and enforcing standars.
 
 This Code of Conduct applies within all project spaces.
 
-## Enfocement guidelines
+## Enforcement & Enfocement guidelines
 
 Community leaders will follo these guidelines in determining consequences.
+
+## Attribution
+
+EvanKhanDev
 
